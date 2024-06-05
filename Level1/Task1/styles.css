@@ -1,4 +1,4 @@
-/* General styles */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -132,7 +132,7 @@ section img {
 }
 
 .home-content .image-content img {
-    width: 50%; /* Adjusted to smaller size */
+    width: 50%; 
     height: auto;
     border-radius: 50%;
 }
@@ -185,7 +185,6 @@ footer p {
     margin: 0;
 }
 
-/* Additional styles for the About Me section */
 .about-section {
     display: flex;
     flex-direction: column;
@@ -195,7 +194,7 @@ footer p {
 .about-description {
     max-width: 50%;
     text-align: center;
-    margin-bottom: 2rem; /* Add some space below the description */
+    margin-bottom: 2rem; 
 }
 
 .about-content {
@@ -245,7 +244,6 @@ footer p {
     font-size: 1rem;
 }
 
-/* Additional styles for the Skills section */
 #skills {
     padding: 2rem;
     text-align: center;
@@ -303,7 +301,6 @@ footer p {
     color: #6c63ff;
 }
 
-/* Additional styles for the Projects section */
 #projects {
     padding: 2rem;
     text-align: center;
@@ -333,7 +330,6 @@ footer p {
     margin-bottom: 1.5rem;
 }
 
-/* Additional styles for the Contact section */
 #contact {
     padding: 2rem;
     text-align: center;
@@ -384,7 +380,6 @@ footer p {
     height: 40px;
 }
 
-/* Additional styles for the Resume section */
 #resume {
     padding: 2rem;
     text-align: center;
